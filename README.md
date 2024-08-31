@@ -11,3 +11,4 @@
 > notification
 > 1. config files `hardhat.config.ts` `.env` `scripts/ccip.config.ts` `scripts/estimateGas/config.ts`
 > 2. abi file: `abi/receiver.json`
+> 3. assume you have set PRIVATE_KEY, ARBITRUM_SEPOLIA_RPC_URL, ETHEREUM_SEPOLIA_RPC_URL, AVALANCHE_FUJI_RPC_URL, ETHERSCAN_API_KEY
